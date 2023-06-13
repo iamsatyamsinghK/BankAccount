@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\RealBankAccount\bin\Debug\net6.0\RealBankAccount.exe
+C:\Users\admin\source\repos\RealBankAccount\bin\Debug\net6.0\RealBankAccount.deps.json
+C:\Users\admin\source\repos\RealBankAccount\bin\Debug\net6.0\RealBankAccount.runtimeconfig.json
+C:\Users\admin\source\repos\RealBankAccount\bin\Debug\net6.0\RealBankAccount.dll
+C:\Users\admin\source\repos\RealBankAccount\bin\Debug\net6.0\RealBankAccount.pdb
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.AssemblyInfo.cs
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.dll
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\refint\RealBankAccount.dll
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.pdb
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\RealBankAccount.genruntimeconfig.cache
+C:\Users\admin\source\repos\RealBankAccount\obj\Debug\net6.0\ref\RealBankAccount.dll
